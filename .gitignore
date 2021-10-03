@@ -1,0 +1,5 @@
+.Rproj.user # session settings fonts, colors et.
+.Rhistory # history of commands
+.RData # env data
+.Ruserdata 
+*.Rproj # project info
