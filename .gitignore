@@ -3,3 +3,4 @@
 .RData # env data
 .Ruserdata 
 *.Rproj # project info
+.Rproj.user
